@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="24" passed="24" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-28T17:25:39 IST" name="Default suite" finished-at="2024-07-28T17:26:56 IST" duration-ms="77197">
+    <groups>
+    </groups>
+    <test started-at="2024-07-28T17:25:39 IST" name="Default test" finished-at="2024-07-28T17:26:56 IST" duration-ms="77197">
+      <class name="Test1.Creator_profile_page">
+        <test-method is-config="true" signature="Lanuch_browser()[pri:0, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:25:39 IST" name="Lanuch_browser" finished-at="2024-07-28T17:25:47 IST" duration-ms="8236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lanuch_browser -->
+        <test-method signature="Verify_search_function()[pri:1, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:25:47 IST" name="Verify_search_function" finished-at="2024-07-28T17:25:49 IST" duration-ms="1397" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_search_function -->
+        <test-method signature="Verify_enter_text_click_enteroption()[pri:2, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:25:49 IST" name="Verify_enter_text_click_enteroption" finished-at="2024-07-28T17:25:50 IST" duration-ms="1252" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_enter_text_click_enteroption -->
+        <test-method signature="Verify_enter_maximum_minimum_and_specialcharacter()[pri:3, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:25:50 IST" name="Verify_enter_maximum_minimum_and_specialcharacter" finished-at="2024-07-28T17:25:52 IST" duration-ms="2108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_enter_maximum_minimum_and_specialcharacter -->
+        <test-method signature="Verify_get_suggestion_option()[pri:4, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:25:52 IST" name="Verify_get_suggestion_option" finished-at="2024-07-28T17:25:56 IST" duration-ms="3948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_get_suggestion_option -->
+        <test-method signature="Verify_click_suggestion_message()[pri:5, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:25:56 IST" name="Verify_click_suggestion_message" finished-at="2024-07-28T17:26:01 IST" duration-ms="4815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_suggestion_message -->
+        <test-method signature="Verify_search_text_realted_results()[pri:6, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:01 IST" name="Verify_search_text_realted_results" finished-at="2024-07-28T17:26:11 IST" duration-ms="10130" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_search_text_realted_results -->
+        <test-method signature="Verify_left_side_options()[pri:7, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:11 IST" name="Verify_left_side_options" finished-at="2024-07-28T17:26:19 IST" duration-ms="8495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_left_side_options -->
+        <test-method signature="Verify_fliter_opitons()[pri:8, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:19 IST" name="Verify_fliter_opitons" finished-at="2024-07-28T17:26:21 IST" duration-ms="1222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_fliter_opitons -->
+        <test-method signature="Verify_select_price_range_and_clearoption()[pri:9, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:21 IST" name="Verify_select_price_range_and_clearoption" finished-at="2024-07-28T17:26:21 IST" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_select_price_range_and_clearoption -->
+        <test-method signature="Verify_mouseover_to_assets_check_borderhighlights()[pri:10, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:21 IST" name="Verify_mouseover_to_assets_check_borderhighlights" finished-at="2024-07-28T17:26:22 IST" duration-ms="641" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_mouseover_to_assets_check_borderhighlights -->
+        <test-method signature="Verify_click_assets_on_homepage()[pri:11, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:22 IST" name="Verify_click_assets_on_homepage" finished-at="2024-07-28T17:26:25 IST" duration-ms="3087" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_assets_on_homepage -->
+        <test-method signature="Verify_get_assets_title_and_get_allcategories()[pri:12, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:25 IST" name="Verify_get_assets_title_and_get_allcategories" finished-at="2024-07-28T17:26:26 IST" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_get_assets_title_and_get_allcategories -->
+        <test-method signature="Verify_get_creator_name_and_creator_mentor()[pri:13, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:26 IST" name="Verify_get_creator_name_and_creator_mentor" finished-at="2024-07-28T17:26:28 IST" duration-ms="2108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_get_creator_name_and_creator_mentor -->
+        <test-method signature="Verify_get_price()[pri:13, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:28 IST" name="Verify_get_price" finished-at="2024-07-28T17:26:28 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_get_price -->
+        <test-method signature="Verify_click_react_option()[pri:14, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:28 IST" name="Verify_click_react_option" finished-at="2024-07-28T17:26:29 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_react_option -->
+        <test-method signature="Verify_click_sharenow_option()[pri:15, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:29 IST" name="Verify_click_sharenow_option" finished-at="2024-07-28T17:26:30 IST" duration-ms="902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_sharenow_option -->
+        <test-method signature="Verify_click_popup_canceloption_click_each_and_every_option()[pri:16, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:30 IST" name="Verify_click_popup_canceloption_click_each_and_every_option" finished-at="2024-07-28T17:26:33 IST" duration-ms="3334" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_popup_canceloption_click_each_and_every_option -->
+        <test-method signature="Verify_suggestion_assets_click_all()[pri:17, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:33 IST" name="Verify_suggestion_assets_click_all" finished-at="2024-07-28T17:26:33 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_suggestion_assets_click_all -->
+        <test-method signature="Verify_click_Buynow_option()[pri:18, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:33 IST" name="Verify_click_Buynow_option" finished-at="2024-07-28T17:26:35 IST" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_Buynow_option -->
+        <test-method signature="Click_connect_option()[pri:19, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:35 IST" name="Click_connect_option" finished-at="2024-07-28T17:26:35 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Click_connect_option -->
+        <test-method signature="Verify_click_drive_the_google_option()[pri:20, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:35 IST" name="Verify_click_drive_the_google_option" finished-at="2024-07-28T17:26:46 IST" duration-ms="10734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_drive_the_google_option -->
+        <test-method signature="Verify_discord_page_enterinvalidusername_and_invalidpassword_then_geterror()[pri:21, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:46 IST" name="Verify_discord_page_enterinvalidusername_and_invalidpassword_then_geterror" finished-at="2024-07-28T17:26:49 IST" duration-ms="2609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_discord_page_enterinvalidusername_and_invalidpassword_then_geterror -->
+        <test-method signature="Verify_click_forget_password()[pri:22, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:49 IST" name="Verify_click_forget_password" finished-at="2024-07-28T17:26:51 IST" duration-ms="2487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_forget_password -->
+        <test-method signature="Verify_click_regsiter_option_and_fill_all_details()[pri:23, instance:Test1.Creator_profile_page@7c24b813]" started-at="2024-07-28T17:26:51 IST" name="Verify_click_regsiter_option_and_fill_all_details" finished-at="2024-07-28T17:26:56 IST" duration-ms="4846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_click_regsiter_option_and_fill_all_details -->
+      </class> <!-- Test1.Creator_profile_page -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
